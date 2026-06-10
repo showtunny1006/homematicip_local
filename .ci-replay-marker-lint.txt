@@ -1,0 +1,3 @@
+# CI replay marker for lint/pre-commit
+feature_branch: replay-ca502f07
+workflow: .github/workflows/pre-commit.yml
